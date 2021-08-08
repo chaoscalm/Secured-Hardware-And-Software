@@ -51,7 +51,7 @@ In this tutorial i will explain how to push the security of you apple software t
 > Explaination
 > - With that all your password are secured, the two factore are also on apple so it's the only one who have your access, and if a services you use have been hacked and you don't know it you have secured it you can also copy the emergency code of all other services with otp to your two encrypted usb key.
 
-- Finally Remove all app you don't use and sitch all your services who support it to Login With Apple (and remove them from the KeyChain).
+- Finally Remove all app you don't use and sitch all your services who support it to Login With Apple (and remove them from the KeyChain) and check every settings in settings to be sure all of them is alright for you.
 
 > Explaination
 > - This will reduce attack surfaces (for the app removed), and pass on passwordless login with apple will increase the security of your account.
