@@ -3,7 +3,7 @@ In this tutorial i will explain how to push the security of you apple software t
 
 ## DO NOT JAILBREAK APPLE HARDWARE OR THIS TUTO WON'T SECURE YOU SINCE JAILBREAK DESTROY ALL THE SECURITY OF APPLE HARDWARE.
 
-## Iphone
+## IOS iPhone)
 
 - First point very important, switch from a sim to an esim and disable the pin of it.
 
@@ -58,10 +58,16 @@ In this tutorial i will explain how to push the security of you apple software t
 
 - Congratulation your have easily secured your iPhone now pass to another Hardware if you have them.
 
-## MacOs
+## Ipad Os (Ipad)
+For now work the same as IOS (Iphone), if this change open an issue (if i don't have updated it).
+
+## Mac Os (Mac)
 NOTE : Working on it offline will upload it here when finished
 
-## WatchOS
+## Watch OS (Apple Watch)
+NOTE : Working on it offline will upload it here when finished
+
+## Tv Os (Apple TV)
 NOTE : Working on it offline will upload it here when finished
 
 ## Router (falcultative but better)
