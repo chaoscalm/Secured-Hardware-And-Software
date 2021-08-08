@@ -3,7 +3,7 @@ In this tutorial i will explain how to push the security of you apple software t
 
 ## DO NOT JAILBREAK APPLE HARDWARE OR THIS TUTO WON'T SECURE YOU SINCE JAILBREAK DESTROY ALL THE SECURITY OF APPLE HARDWARE.
 
-## IOS iPhone)
+## IOS (iPhone)
 
 - First point very important, switch from a sim to an esim and disable the pin of it.
 
