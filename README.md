@@ -56,19 +56,25 @@ In this tutorial i will explain how to push the security of you apple software t
 > Explaination
 > - This will reduce attack surfaces (for the app removed), and pass on passwordless login with apple will increase the security of your account.
 
+- Bonus tips : Reduce the screen enabled (without touch) to one minutes.
+
+> Explaination
+> - If your forget or don't really lock your phone it will prevent ill intentioned user to access to your Datas. 
+
 - Congratulation your have easily secured your iPhone now pass to another Hardware if you have them.
 
 ## Ipad Os (Ipad)
-For now work the same as IOS (Iphone), if this change open an issue (if i don't have updated it).
+
+- For now work the same as IOS (Iphone), if this change open an issue (if i don't have updated it).
 
 ## Mac Os (Mac)
-NOTE : Working on it offline will upload it here when finished
+- NOTE : Working on it offline will upload it here when finished
 
 ## Watch OS (Apple Watch)
-NOTE : Working on it offline will upload it here when finished
+- NOTE : Working on it offline will upload it here when finished
 
 ## Tv Os (Apple TV)
-NOTE : Working on it offline will upload it here when finished
+- NOTE : Working on it offline will upload it here when finished
 
 ## Router (falcultative but better)
-NOTE : Working on it offline will upload it here when finished
+- NOTE : Working on it offline will upload it here when finished
