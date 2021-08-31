@@ -73,11 +73,6 @@ If you search security i will tel you better use Apple profuct, because they pus
 > Explaination
 > - If your forget or don't really lock your phone it will prevent ill intentioned user to access to your Datas.
 
-- Bonus tips 2 : Take an icloud+ account 0,99/month ans generate one email by services (hide my email), link your external domain (if you own one).
-
-> Explaination
-> - If your forget or don't really lock your phone it will prevent ill intentioned user to access to your Datas. 
-
 - Congratulation your have easily secured your iPhone now pass to another Hardware if you have them.
 
 ## Ipad Os (Ipad)
@@ -93,5 +88,17 @@ If you search security i will tel you better use Apple profuct, because they pus
 ## Tv Os (Apple TV)
 - NOTE : Working on it offline will upload it here when finished
 
-## Router (falcultative but better)
+## Windows 10/11
 - NOTE : Working on it offline will upload it here when finished
+
+## Router
+- NOTE : Working on it offline will upload it here when finished
+
+## Online Website Security
+- NOTE : Working on it offline will upload it here when finished
+
+## DNS
+- For this one it's very easy to say, use quad9.net, it's the best for security (see router to use it securly on your network).
+
+## Icloud+
+- Take an icloud+ account 0,99/month ans generate one email by services (hide my email), link your external domain (if you own one).
