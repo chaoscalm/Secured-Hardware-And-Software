@@ -1,4 +1,5 @@
 # Secure IT
+## Work in progess some error and mistake is here will be corrected with time
 In this tutorial i will explain how to push the security of your IT hardware/software to it's maximum.
 
 Now il will start with requirement, if you have done them this explainaition is totally useless :
