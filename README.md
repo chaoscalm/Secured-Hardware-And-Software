@@ -70,6 +70,11 @@ If you search security i will tel you better use Apple profuct, because they pus
 - Bonus tips : Reduce the screen enabled (without touch) to one minutes.
 
 > Explaination
+> - If your forget or don't really lock your phone it will prevent ill intentioned user to access to your Datas.
+
+- Bonus tips 2 : Take an icloud+ account 0,99/month ans generate one email by services (hide my email), link your external domain (if you own one).
+
+> Explaination
 > - If your forget or don't really lock your phone it will prevent ill intentioned user to access to your Datas. 
 
 - Congratulation your have easily secured your iPhone now pass to another Hardware if you have them.
