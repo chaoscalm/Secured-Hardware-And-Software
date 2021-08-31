@@ -2,6 +2,7 @@
 ## Work in progess some error and mistake is here will be corrected with time
 In this tutorial i will explain how to push the security of your IT hardware/software to it's maximum.
 
+## Requirement
 Now il will start with requirement, if you have done them this explainaition is totally useless :
 1. DO NOT JAILBREAK APPLE HARDWARE OR ROOT ANDROID IT DESTROY ALL THE SECURITY OF APPLE/ANDROID HARDWARE.
 2. DO NOT HACK WINDOWS MACOS OR YOUR ANTIVIRUS IT DESTROY ALL THE SECURITY IT NORMALLY PROVIDE TO YOU.
@@ -12,8 +13,10 @@ If you have done point 1 leave this tutorial your security is totally destroyed 
 If you have done point 2 or 4 reset your OS before proceding to the next point.\
 If you have done point 3 go back enable them in your BIOS / UEFI settings.
 
+## OS NOT RECOMMANDED
 I will not cover Android in this guide because it's not securable in long term, since none of the one i have tested push all the security update every month.\
 If you search security i will tel you better use Apple profuct, because they push update on all their device at the same time (not like Android).
+
 
 ## IOS (iPhone)
 
